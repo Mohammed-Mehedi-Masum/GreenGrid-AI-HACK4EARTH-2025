@@ -1,0 +1,2 @@
+﻿# Exclude large baseline model (118 MB)
+rf_model.pkl

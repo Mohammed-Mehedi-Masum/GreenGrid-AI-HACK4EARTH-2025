@@ -1,0 +1,30 @@
+{
+  "competition": "HACK4EARTH Green AI 2025",
+  "dataset": {
+    "name": "PJM Hourly Energy Consumption",
+    "samples": 145198,
+    "date_range": "2002-01-08 00:00:00 to 2018-08-01 21:00:00"
+  },
+  "deployment": {
+    "smart_meters": 5000000,
+    "predictions_per_year": 43800000000
+  },
+  "carbon_impact": {
+    "inference_savings_tonnes": 6.935,
+    "grid_optimization_tonnes": 295650.0,
+    "total_savings_tonnes": 295656.935
+  },
+  "model_performance": {
+    "baseline_r2": 0.9164865750448324,
+    "baseline_mae": 1543.9603887396427,
+    "optimized_r2": 0.9105684597599703,
+    "optimized_mae": 1629.0422286607752,
+    "green_score": 0.6702074597080091
+  },
+  "assumptions": {
+    "rf_power_watts": 15.0,
+    "ridge_power_watts": 15.0,
+    "carbon_intensity_kg_per_kwh": 0.4,
+    "water_efficiency_l_per_kwh": 0.8
+  }
+}

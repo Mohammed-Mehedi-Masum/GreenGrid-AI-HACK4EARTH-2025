@@ -1,0 +1,34 @@
+# Green AI Energy Forecasting - Competition Dependencies
+# HACK4EARTH Green AI 2025
+# Student: Mohammed Mehedi Masum
+
+# Data processing and manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning models
+scikit-learn>=1.2.0
+
+# Hyperparameter optimization (used for model tuning)
+optuna>=3.0.0
+
+# Visualization libraries (for EDA and analysis)
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Model persistence
+joblib>=1.2.0
+
+# Interactive web app (for demo)
+gradio>=4.0.0
+
+# Carbon tracking (REQUIRED for competition evidence)
+codecarbon>=2.3.0
+
+# Progress bars (for training visualization)
+tqdm>=4.65.0
+
+# Notes:
+# - CodeCarbon is mandatory for verified carbon measurements
+# - Gradio is used for the interactive demo app
+# - All versions tested on Python 3.12+

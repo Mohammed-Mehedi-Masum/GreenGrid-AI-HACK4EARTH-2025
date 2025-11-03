@@ -1,0 +1,14 @@
+{
+  "baseline": {
+    "name": "RandomForest",
+    "size_mb": 118.093,
+    "n_estimators": 50,
+    "max_depth": 12
+  },
+  "optimized": {
+    "name": "Ridge",
+    "size_mb": 0.000534,
+    "alpha": 10.0
+  },
+  "size_reduction_percent": 100.0
+}

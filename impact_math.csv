@@ -1,0 +1,4 @@
+Scenario,Assumption,Annual_Energy_Saved_kWh,Annual_CO2_Saved_kg,Annual_Water_Saved_L,Grid_Optimization_CO2_tonnes,Total_Impact_CO2_tonnes,Economic_Value_USD,Notes
+Low,"Conservative: 1% forecast improvement, 2M meters, coal-heavy grid (0.6 kg/kWh)",7263.6,4358.16,5810.88,148275,148.28,44483,"Assumes only 40% adoption rate, minimal grid improvements"
+Medium,"Realistic: 3% forecast improvement, 5M meters, mixed grid (0.4 kg/kWh)",18159.0,7263.6,14527.2,295650,295.66,88695,"Main scenario used in submission, US average grid"
+High,"Optimistic: 5% forecast improvement, 10M meters, renewable-heavy grid (0.2 kg/kWh)",36318.0,7263.6,29054.4,788750,788.76,236626,"Best case with high renewable penetration and full adoption"
