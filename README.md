@@ -4,8 +4,6 @@
 
 **HACK4EARTH Green AI 2025 Competition**  
 🏆 Build Green AI Track 🏆
-**🚀 Try the Interactive Gradio App:**
-**[Launch GreenGrid AI Demo](https://bc433de1dcb40b519a.gradio.live/)**
 
 **Competitor:** Mohammed Mehedi Masum  
 **Goal:** Make AI cleaner while keeping it accurate
