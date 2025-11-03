@@ -10,7 +10,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
+**🚀 Try the Interactive Gradio App:**
 
+**[Launch GreenGrid AI Demo →](https://bc433de1dcb40b519a.gradio.live/)**
 **Carbon Reduction: 95.0% | Speed Improvement: 20× | R² Score: 91.06%**
 
 </div>
